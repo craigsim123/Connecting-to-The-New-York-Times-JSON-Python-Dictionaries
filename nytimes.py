@@ -1,3 +1,9 @@
+"""
+A technique to flatten a Python dictionary
+
+Author: Craig Sim
+"""
+
 import argparse
 import logging
 import requests
